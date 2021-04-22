@@ -1,0 +1,38 @@
+import ISIL.lang;
+import ISIL.io;
+
+public class $class {
+    
+Entier $x,$abdo,$l;
+Reel $y,$i,$soheib;
+Chaine @moh[5];
+
+CONST Entier $s := 0;
+CONST Entier $p,$z,$t;
+CONST Chaine $b;
+main () {
+
+   Out("%d%f%f",$soheib,$y,$i);
+   Out("%d%f",$p,$z);
+   Out("%s%f",$soheib,$abdo);
+   For ($x:=1 ;$x<5 ;$x++){
+     
+   }
+ 
+  ## this is a comment
+   
+   
+    ##
+
+
+   Out ("dsfsdfqsdfd");
+   $b := "ISILA";
+   $b := "ISILB";
+   $x := $x / $l;
+   @moh[4] := 5;
+   $b := 5;
+   $s := 2.5;
+   $p := 2;
+
+}
+}
